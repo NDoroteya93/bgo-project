@@ -1,0 +1,7 @@
+<mat-grid-list [cols]="breakpoint" [rowHeight]="rowHeight" *ngIf="pets && pets.length" (window:resize)="onResize($event)">
+  <ng-container *ngFor="let pet of pets">    
+    <mat-grid-tile *ngIf="pet.showPet">
+      <bgo-pets-card [pet]="pet" (hidePet)="hidePet($event)"></bgo-pets-card>
+    </mat-grid-tile> 
+  </ng-container>
+</mat-grid-list>

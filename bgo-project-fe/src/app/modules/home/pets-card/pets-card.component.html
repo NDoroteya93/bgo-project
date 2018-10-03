@@ -1,0 +1,16 @@
+<mat-card class="pet-card" *ngIf="pet">
+  <mat-card-header>
+    <div mat-card-avatar class="pet-header-image"></div>
+    <mat-card-title>{{pet.name}}</mat-card-title>
+    <mat-card-subtitle>{{ pet.breeds.name }}</mat-card-subtitle>
+  </mat-card-header>
+  <img class="pet-image" mat-card-image [src]="pet.url" [style.backgroundImage]="pet.url" [alt]="pet.name">
+  <mat-card-content>
+    <p>{{ pet.breeds.temperament }}</p>
+  </mat-card-content>
+  <mat-card-actions>
+    <button mat-button (click)="onClick(pet);">Accept</button>
+    <button mat-button (click)="onClick(pet);">Cancel</button>
+  </mat-card-actions>
+</mat-card>
+    

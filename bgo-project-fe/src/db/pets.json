@@ -1,0 +1,272 @@
+{
+  "pets": [
+    {
+      "id": "S1bsCGxrf",
+      "url": "http://78.media.tumblr.com/2bc94b9eec2d00f5d28110ba191da896/tumblr_nyled8DYKd1qg9kado1_1280.jpg",
+      "width": null,
+      "height": null,
+      "mime_type": "image/jpeg",
+      "entities": [],
+      "name": "Sara",
+      "breeds": {
+        "id": 1,
+        "name": "Affenpinscher",
+        "life_span": "10 - 12 years",
+        "bred_for": "Small rodent hunting, lapdog",
+        "breed_group": "Toy",
+        "temperament": "Stubborn, Curious, Playful, Adventurous, Active, Fun-loving",
+        "weight": {
+            "imperial": "6 - 13 lbs",
+            "metric": "3 - 6 kgs"
+        },
+        "height": {
+            "imperial": "9 - 11.5 inches at the withers",
+            "metric": "23 - 29 cm at the withers"
+          }
+      },
+      "animals": [],
+      "categories": []
+    },
+    {
+      "id": "B1gZsCMgrG",
+      "url": "http://78.media.tumblr.com/75f7f5ba97da53c61026fe6cad16c97c/tumblr_o8h7llrbDt1rzz2who1_1280.jpg",
+      "width": null,
+      "height": null,
+      "mime_type": "image/jpeg",
+      "entities": [],
+      "name": "Tom",
+      "breeds": {
+        "id": 2,
+        "name": "Afghan Hound",
+        "life_span": "10 - 13 years",
+        "bred_for": "Coursing and hunting",
+        "breed_group": "Hound",
+        "temperament": "Aloof, Clownish, Dignified, Independent, Happy",
+        "weight": {
+            "imperial": "50 - 60 lbs",
+            "metric": "23 - 27 kgs"
+        },
+        "height": {
+            "imperial": "25 - 27 inches at the withers",
+            "metric": "64 - 69 cm at the withers"
+        }
+      },
+      "animals": [],
+      "categories": []
+    },
+    {
+      "id": "HJZWiCGgSf",
+      "url": "http://78.media.tumblr.com/84f729a7130860dda9b7544664a36094/tumblr_nvgiskSmew1un7zabo3_r1_1280.jpg",
+      "width": null,
+      "height": null,
+      "mime_type": "image/jpeg",
+      "entities": [],
+      "name": "Fred",
+      "breeds": {
+        "id": 3,
+        "name": "African Hunting Dog",
+        "life_span": "11 years",
+        "bred_for": "A wild pack animal",
+        "temperament": "Wild, Hardworking, Dutiful",
+        "weight": {
+            "imperial": "44 - 66 lbs",
+            "metric": "20 - 30 kgs"
+        },
+        "height": {
+            "imperial": "30 inches at the withers",
+            "metric": "76 cm at the withers"
+          }
+      },
+      "animals": [],
+      "categories": []
+    },
+    {
+      "id": "HyGWiRfgBM",
+      "url": "http://78.media.tumblr.com/6fb13a48907b7d65f79a07afdc9c5ebe/tumblr_nhlytoREfQ1rvsh0oo1_1280.jpg",
+      "width": null,
+      "height": null,
+      "mime_type": "image/jpeg",
+      "entities": [],
+      "name": "Doggy",
+      "breeds": {
+        "id": 4,
+        "name": "Airedale Terrier",
+        "life_span": "10 - 13 years",
+        "bred_for": "Badger, otter hunting",
+        "breed_group": "Terrier",
+        "temperament": "Outgoing, Friendly, Alert, Confident, Intelligent, Courageous",
+        "weight": {
+            "imperial": "40 - 65 lbs",
+            "metric": "18 - 29 kgs"
+        },
+        "height": {
+            "imperial": "21 - 23 inches at the withers",
+            "metric": "53 - 58 cm at the withers"
+          }
+      },
+      "animals": [],
+      "categories": []
+    },
+    {
+      "id": "Bk4-oAzlHM",
+      "url": "http://78.media.tumblr.com/4217786db510db68daed375cea8ec4d9/tumblr_nlf1ggSff71ruv93po1_1280.jpg",
+      "width": null,
+      "height": null,
+      "mime_type": "image/jpeg",
+      "entities": [],
+      "name": "Sara",
+      "breeds": {
+        "id": 5,
+        "name": "Akbash Dog",
+        "life_span": "10 - 12 years",
+        "bred_for": "Sheep guarding",
+        "breed_group": "Working",
+        "temperament": "Loyal, Independent, Intelligent, Brave",
+        "weight": {
+            "imperial": "90 - 120 lbs",
+            "metric": "41 - 54 kgs"
+        },
+        "height": {
+            "imperial": "28 - 34 inches at the withers",
+            "metric": "71 - 86 cm at the withers"
+          }
+      },
+      "animals": [],
+      "categories": []
+    },
+    {
+      "id": "H1HWiCMxHG",
+      "url": "http://78.media.tumblr.com/a9c056e66b11e1a91a9a03d8c0d04e89/tumblr_o7uwyquvpM1qjcdw9o1_1280.png",
+      "width": null,
+      "height": null,
+      "mime_type": "image/png",
+      "entities": [],
+      "name": "Sara",
+      "breeds": {
+        "id": 6,
+        "name": "Akita",
+        "life_span": "10 - 14 years",
+        "bred_for": "Hunting bears",
+        "breed_group": "Working",
+        "temperament": "Docile, Alert, Responsive, Dignified, Composed, Friendly, Receptive, Faithful, Courageous",
+        "weight": {
+            "imperial": "65 - 115 lbs",
+            "metric": "29 - 52 kgs"
+        },
+        "height": {
+            "imperial": "24 - 28 inches at the withers",
+            "metric": "61 - 71 cm at the withers"
+          }
+      },
+      "animals": [],
+      "categories": []
+    },
+    {
+      "id": "rkUZsAGeHM",
+      "url": "http://78.media.tumblr.com/9666e3107587fa2dd7833033ec42b7ba/tumblr_o0ymimYfp71rozzl0o1_1280.jpg",
+      "width": null,
+      "height": null,
+      "mime_type": "image/jpeg",
+      "entities": [],
+      "name": "Sara",
+      "breeds": {
+        "id": 7,
+        "name": "Alapaha Blue Blood Bulldog",
+        "life_span": "12 - 13 years",
+        "bred_for": "Guarding",
+        "breed_group": "Mixed",
+        "temperament": "Loving, Protective, Trainable, Dutiful, Responsible",
+        "weight": {
+            "imperial": "55 - 90 lbs",
+            "metric": "25 - 41 kgs"
+        },
+        "height": {
+            "imperial": "18 - 24 inches at the withers",
+              "metric": "46 - 61 cm at the withers"
+        }
+      },
+      "animals": [],
+      "categories": []
+    },
+    {
+      "id": "BkDZjRzlSz",
+      "url": "http://78.media.tumblr.com/9b5ed3d0bcd102bb028f137267082777/tumblr_o6zaks1SvQ1qjcdw9o1_1280.jpg",
+      "width": null,
+      "height": null,
+      "mime_type": "image/jpeg",
+      "entities": [],
+      "name": "Sara",
+      "breeds": {
+        "id": 8,
+        "name": "Alaskan Husky",
+        "life_span": "10 - 13 years",
+        "bred_for": "Sled pulling",
+        "breed_group": "Mixed",
+        "temperament": "Friendly, Energetic, Loyal, Gentle, Confident",
+        "weight": {
+            "imperial": "38 - 50 lbs",
+            "metric": "17 - 23 kgs"
+        },
+        "height": {
+            "imperial": "23 - 26 inches at the withers",
+            "metric": "58 - 66 cm at the withers"
+          }
+      },
+      "animals": [],
+      "categories": []
+    },
+    {
+      "id": "ByuZj0GgBf",
+      "url": "http://78.media.tumblr.com/766f297cf8b282cd2820fc4c9161c328/tumblr_o7hktkxin01qjcdw9o1_1280.jpg",
+      "width": null,
+      "height": null,
+      "mime_type": "image/jpeg",
+      "entities": [],
+      "name": "Sara",
+      "breeds": {
+        "id": 9,
+        "name": "Alaskan Malamute",
+        "life_span": "12 - 15 years",
+        "bred_for": "Hauling heavy freight, Sled pulling",
+        "breed_group": "Working",
+        "temperament": "Friendly, Affectionate, Devoted, Loyal, Dignified, Playful",
+        "weight": {
+            "imperial": "65 - 100 lbs",
+            "metric": "29 - 45 kgs"
+        },
+        "height": {
+            "imperial": "23 - 25 inches at the withers",
+            "metric": "58 - 64 cm at the withers"
+          }
+      },
+      "animals": [],
+      "categories": []
+    },
+    {
+      "id": "r1tWjAfxHz",
+      "url": "http://78.media.tumblr.com/5230380780945425e867a0a3aaa6f4b0/tumblr_n8w47dGOhd1r7qbtpo1_1280.jpg",
+      "width": null,
+      "height": null,
+      "mime_type": "image/jpeg",
+      "entities": [],
+      "name": "Sara",
+      "breeds": {
+        "id": 10,
+        "name": "American Bulldog",
+        "life_span": "10 - 12 years",
+        "breed_group": "Working",
+        "temperament": "Friendly, Assertive, Energetic, Loyal, Gentle, Confident, Dominant",
+        "weight": {
+            "imperial": "60 - 120 lbs",
+            "metric": "27 - 54 kgs"
+        },
+        "height": {
+            "imperial": "22 - 27 inches at the withers",
+            "metric": "56 - 69 cm at the withers"
+          }
+      },
+      "animals": [],
+      "categories": []
+    }
+  ]
+}

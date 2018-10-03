@@ -1,10 +1,11 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
+import { PetsService } from './pets/pets.service';
 
 @NgModule({
   imports: [
     CommonModule
   ],
-  declarations: []
+  providers: [PetsService]
 })
-export class HomeModule { }
+export class CoreModule { }
