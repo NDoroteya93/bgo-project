@@ -1,3 +1,22 @@
-<p>
-  my-grid works!
-</p>
+<kendo-grid #grid *ngIf="pets && pets.length"
+          [data]="pets"
+          [height]="533"
+          [pageSize]="gridState.take" [skip]="gridState.skip" [sort]="gridState.sort"
+          [pageable]="true" [sortable]="true"
+          (dataStateChange)="onStateChange($event)"
+          (edit)="editClick($event)"
+          (remove)="removeHandler($event)"
+          (save)="saveRow($event)"
+          [navigable]="true"
+        >
+        <kendo-grid-column field="id" title="Id"></kendo-grid-column>
+        <kendo-grid-column field="name" title="Title"></kendo-grid-column>
+        <kendo-grid-command-column title="Action" width="220">
+            <ng-template kendoGridCellTemplate let-isNew="isNew">
+                <button kendoGridEditCommand [primary]="true">Edit</button>
+                <button kendoGridRemoveCommand>Accept</button>
+                <button kendoGridRemoveCommand>Cancel</button>
+                <button kendoGridSaveCommand >Save</button>
+            </ng-template>
+        </kendo-grid-command-column>
+      </kendo-grid>

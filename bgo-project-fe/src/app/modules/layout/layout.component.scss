@@ -10,7 +10,12 @@ h1.app-logo {
   margin-left: 8px;
 }
 
-
+.right-actions { 
+  display: flex;
+  display: -webkit-flex;
+  justify-content: flex-end;
+  flex: 1 1 auto;
+}
 
 .is-mobile { 
   display: flex;

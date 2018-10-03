@@ -1,6 +1,13 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { MatToolbarModule, MatIconModule, MatSidenavModule, MatListModule, MatButtonModule } from '@angular/material';
+import {
+  MatToolbarModule,
+  MatIconModule,
+  MatSidenavModule,
+  MatListModule,
+  MatButtonModule,
+  MatMenuModule
+} from '@angular/material';
 import { LayoutComponent } from './layout.component';
 import { RouterModule } from '@angular/router';
 
@@ -11,7 +18,8 @@ import { RouterModule } from '@angular/router';
     MatIconModule,
     MatSidenavModule,
     MatListModule, 
-    MatButtonModule, 
+    MatButtonModule,
+    MatMenuModule,
     RouterModule
   ],
   declarations: [LayoutComponent],

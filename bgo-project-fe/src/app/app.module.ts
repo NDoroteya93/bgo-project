@@ -16,8 +16,8 @@ import { PetsCardComponent } from './modules/home/pets-card/pets-card.component'
 
 @NgModule({
   declarations: [
-    AppComponent, 
-    HomeComponent, 
+    AppComponent,
+    HomeComponent,
     PetsCardComponent
   ],
   imports: [
@@ -26,9 +26,9 @@ import { PetsCardComponent } from './modules/home/pets-card/pets-card.component'
     BrowserAnimationsModule,
     HttpClientModule,
     LayoutModule,
-    CoreModule, 
-    MatCardModule, 
-    MatButtonModule, 
+    CoreModule,
+    MatCardModule,
+    MatButtonModule,
     MatGridListModule
   ],
   providers: [],
